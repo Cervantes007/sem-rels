@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Cervantes007/sem-rels/compare/v1.1.4...v1.2.0) (2020-06-02)
+
+
+### Features
+
+* alpha ([7689e1b](https://github.com/Cervantes007/sem-rels/commit/7689e1bcaeb9ed65b34d6a525e0d924c277ef983))
+
 ## [1.1.4](https://github.com/Cervantes007/sem-rels/compare/v1.1.3...v1.1.4) (2020-06-02)
 
 
