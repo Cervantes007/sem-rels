@@ -7,12 +7,14 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "semver": "semantic-release"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
     "cz-conventional-changelog": "3.2.0",
+    "semantic-release": "^17.0.8",
     "typescript": "^3.9.3"
   },
   "config": {
