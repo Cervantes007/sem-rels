@@ -6,9 +6,16 @@
   "author": "Cervantes",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "commit": "git-cz"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "3.2.0",
     "typescript": "^3.9.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
