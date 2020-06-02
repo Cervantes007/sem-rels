@@ -1,0 +1,14 @@
+{
+  "name": "sem-rels",
+  "version": "0.0.0-semantically-released",
+  "main": "index.js",
+  "repository": "git@github.com:Cervantes007/sem-rels.git",
+  "author": "Cervantes",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
