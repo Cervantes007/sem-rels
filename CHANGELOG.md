@@ -1,3 +1,15 @@
+# [2.0.0-beta.4](https://github.com/Cervantes007/sem-rels/compare/v2.0.0-beta.3...v2.0.0-beta.4) (2020-06-03)
+
+
+### Features
+
+* **greeting:** cHange greetings api ([4eaa29a](https://github.com/Cervantes007/sem-rels/commit/4eaa29a9e40e47af57fc64e4829249d33d25fefe))
+
+
+### BREAKING CHANGES
+
+* **greeting:** description
+
 # [2.0.0-beta.3](https://github.com/Cervantes007/sem-rels/compare/v2.0.0-beta.2...v2.0.0-beta.3) (2020-06-03)
 
 
