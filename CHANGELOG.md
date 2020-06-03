@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/Cervantes007/sem-rels/compare/v1.1.4...v2.0.0) (2020-06-03)
+
+
+### Bug Fixes
+
+* update version ([6bc5217](https://github.com/Cervantes007/sem-rels/commit/6bc52174ceb269fc40879d5d63aada4291c81505))
+
+
+### Features
+
+* adding beta ([06c8838](https://github.com/Cervantes007/sem-rels/commit/06c8838bccd3706835d67a6c33f6ad7bb811155e))
+
+
+### BREAKING CHANGES
+
+* Now nodejs support >= 8
+
 # [2.0.0](https://github.com/Cervantes007/sem-rels/compare/v1.1.4...v2.0.0) (2020-06-02)
 
 
