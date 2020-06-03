@@ -1,3 +1,10 @@
+# [2.0.0-beta.2](https://github.com/Cervantes007/sem-rels/compare/v2.0.0-beta.1...v2.0.0-beta.2) (2020-06-03)
+
+
+### Features
+
+* beta version ([4f1832c](https://github.com/Cervantes007/sem-rels/commit/4f1832c95be7f9b89ecea9719e84683d4dcc14b2))
+
 # [2.0.0-beta.1](https://github.com/Cervantes007/sem-rels/compare/v1.1.4...v2.0.0-beta.1) (2020-06-03)
 
 
